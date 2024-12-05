@@ -10,3 +10,7 @@
   box-sizing: border-box;
   font-family: "Ubuntu", serif;
 }
+body {
+  background-color: rgb(46, 46, 75);
+  color: #fff;
+}
